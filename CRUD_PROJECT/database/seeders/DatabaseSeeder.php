@@ -1,7 +1,6 @@
 <?php
 
 namespace Database\Seeders;
-
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
@@ -20,5 +19,8 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
-    }
+
+    //    factory(App\Post::class)->create();
+
+}
 }
